@@ -6,7 +6,7 @@
 2. Configure Terraform to provision servers
 
 **Done so far**
-1. Provisioned an Amazon Linux server and installed Ansible on it.
+1. Provisioned an Amazon Linux server, setup security groups, and installed Ansible on it.
 2. Configured awscli on Ansible server
 3. Created place holder files for both Ansible and Terraform
 4. Configured the terraform/main.tf (Need to go back and look at Production IP cidr block and SSH keys)
