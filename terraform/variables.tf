@@ -13,7 +13,7 @@ variable "instance_count" {
 variable "instance_type" {
   description = "EC2 instance type"
   type        = string
-  default     = "t2.micro"
+  default     = "t2.nano"
 }
 
 variable "ami_id" {
