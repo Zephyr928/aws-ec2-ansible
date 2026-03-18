@@ -10,6 +10,7 @@
 2. Configured awscli on Ansible server
 3. Created place holder files for both Ansible and Terraform
 4. Configured the terraform/main.tf (Need to go back and look at Production IP cidr block and SSH keys)
+5. Configured the terraform/variables.tf file
 
 
 **To-Do List**
